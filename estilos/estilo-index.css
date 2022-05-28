@@ -34,7 +34,7 @@ body {
 }
 #menuOpciones li a{
   text-decoration: none;
-  color: white;
+  color: black;
   font-size: 20px;
   display: block;
   font-family: 'Signika Negative', sans-serif;
@@ -44,12 +44,11 @@ body {
   padding-top: 10px;
   height: 35px;
   border-radius: 15px;
-  background-color: black;
 }
 
 #menuOpciones li a:hover{
   color: black;
-  background-color: white;
+  background-color:    #d9c8bf ;
 }
 
 #menuOpciones li{
